@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Author Studio",
+  "description": "An AI-powered professional book creation and publishing suite combining the design precision of Scribus, the library management of Calibre, and the generative power of Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
