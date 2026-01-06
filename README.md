@@ -3,6 +3,8 @@
 </div>
 
 # Run and deploy your AI Studio app
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzuzy401-hash%2FEDITORIA.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzuzy401-hash%2FEDITORIA?ref=badge_shield)
+
 
 This contains everything you need to run your app locally.
 
@@ -18,3 +20,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1JOo8LDppoihoxURSaz6_P8
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzuzy401-hash%2FEDITORIA.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzuzy401-hash%2FEDITORIA?ref=badge_large)
